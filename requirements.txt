@@ -1,0 +1,16 @@
+# streamlit==1.29.0
+# pdfplumber==0.10.3
+# faiss-cpu==1.7.4
+# requests==2.31.0
+# python-dotenv==1.0.0
+# numpy==1.26.4
+
+
+streamlit
+faiss-cpu
+sentence-transformers
+numpy
+pandas
+python-docx
+PyPDF2
+scikit-learn
